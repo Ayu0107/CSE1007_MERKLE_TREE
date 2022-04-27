@@ -51,7 +51,7 @@ class Node {
     }
 }
 
-public class makeltree {
+public class MerkleTree {
 
     public static Node generateTree(ArrayList<String> dataBlocks) {
         ArrayList<Node> childNodes = new ArrayList<>();
