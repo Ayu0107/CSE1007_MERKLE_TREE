@@ -151,5 +151,9 @@ We will get complete different output for that data block. So, it means, its par
 
 ![image](https://user-images.githubusercontent.com/62741870/165687284-cfb4c5a0-c40e-48da-885b-6d3d0528ada4.png)
 
+## REFERENCES
 
+1. https://www.pranaybathini.com/2021/05/merkle-tree.html
+2. https://medium.com/coinmonks/implementing-merkle-tree-and-patricia-trie-b8badd6d9591
+3. https://brilliant.org/wiki/merkle-tree/
 
